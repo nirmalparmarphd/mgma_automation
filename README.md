@@ -7,7 +7,7 @@ Mathematical Gnostics (MG) Marginal Analysis (MA) automation code
 Minimum Working Example of npmg.m code.
 ```
 # run code
-python npmg.m
+octave npmg.m
 ```
 This code will run a loop over datasets and calculate the gnostics intervals (tolerance interval and interval of typical data) for each data point.
 
